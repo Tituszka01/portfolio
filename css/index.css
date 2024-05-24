@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+body{
+    font-family: "Jacquard 12", system-ui !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  background-color: gray !important;
+}
+img{
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
